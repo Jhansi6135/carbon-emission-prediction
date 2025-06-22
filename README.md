@@ -80,7 +80,7 @@ This project uses machine learning to predict **country-level CO₂ emissions** 
 
 ## 👩‍💻 Author
 
-**Jhansi Pydi**  
+**Pydi Jhansi**  
 Full Stack Developer | AIML Student  
 GitHub: [@Jhansi6135](https://github.com/Jhansi6135)
 
